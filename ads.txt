@@ -50,8 +50,6 @@ Google Services Integration (e.g., Firebase)
 Mapping Integration (Google Maps, Mapbox)
 2D & 3D Game Development (Unity)
 
-We also support other services like IoT and device-based applications upon request.
-
 Technologies & Programming Languages
 
 For Web Applications: 
@@ -67,7 +65,7 @@ For Databases:
 - MySQL, SQL, SQLite, Firebase
 
 For Game Development: 
-- C#
+- Unity C#
 
 Frameworks & APIs: 
 - Angular, RestAPI, Java Spring Boot
